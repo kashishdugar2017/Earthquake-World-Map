@@ -13,4 +13,4 @@ A python world map that shows earthquakes around the globe
 ```python main.py```
 
 ## Built by
-Kashish Dugar, Age 9
+Kashish Dugar
