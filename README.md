@@ -1,16 +1,16 @@
-# Global Earthquake world map
+# Global Earthquakes World Map
 
-A python world map that shows earthquakes around the globe
+A **Python** world map that shows earthquakes around the globe
 
 ## Features
-- Colored dots for esch earthquake, with a magnitute color bar
-- Hover popup showing place, size, latitude, longitute and magnitute
+- Colored dots for each earthquake, with a magnitude color bar
+- Hover popup showing place, size, latitude, longitude and magnitude
 
 ## Data source
-- github
+- A github repo
 
 ## Run it
-```python main.py```
+`python main.py`
 
 ## Built by
 Kashish Dugar
